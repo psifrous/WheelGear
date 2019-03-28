@@ -1,0 +1,1 @@
+This folder contains dataset of 5 people thinking 0,1,2 and 3.
